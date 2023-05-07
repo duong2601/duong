@@ -1,0 +1,45 @@
+.mainPage {
+    display: flex;
+    width: 100%;
+}
+
+.mainPageImg img {
+    width: 100%;
+
+}
+
+.mainPageImg {
+    width: 40%;
+}
+
+.mainPageText {
+    width: 60%;
+    text-align: end;
+    padding-top: 100px;
+    background-color: #edf0f5;
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+
+.mainPageText span {
+    color: #B7B7B7;
+    font-size: 18px;
+}
+
+.mainPageText h2 {
+    letter-spacing: 1px;
+    font-style: normal;
+    line-height: 1.2;
+    color: inherit;
+}
+
+.mainPageText p {
+    letter-spacing: 1px;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #777785;
+}

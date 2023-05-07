@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "email": "duong@gmail.com",
+      "password": "$2a$10$qd4XISGB/RcfWAtj3zdxq.hAet73lLps5i/./t4nZBEpB.yGCHPqy",
+      "username": "duong",
+      "phoneNumber": "1234567",
+      "permission": 1,
+      "id": 1
+    }
+  ],
+  "userDriver": [
+    {
+      "name": "anh",
+      "phoneNumber": "12345678",
+      "email": "duong26@gmail.com",
+      "testDrive": "2023-07-05",
+      "id": 1
+    },
+    {
+      "name": "duong",
+      "phoneNumber": "123",
+      "email": "duongchi@gmail.com",
+      "testDrive": "2023-05-09",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "img": "https://static1.cafeland.vn/cafeautoData/upload/tintuc/thitruong/2022/08/tuan-01/toyotacamrythehemoibanphachoacafeautovn1-1659434192.jpg",
+      "name": "Cam Hydbid",
+      "price": 1000000000,
+      "tittle": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum",
+      "id": 1
+    },
+    {
+      "img": "https://static1.cafeland.vn/cafeautoData/upload/tintuc/thitruong/2022/08/tuan-01/toyotacamrythehemoibanphachoacafeautovn1-1659434192.jpg",
+      "name": "Cam Luxuly",
+      "price": 2000000000,
+      "tittle": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum",
+      "id": 2
+    },
+    {
+      "img": "https://static1.cafeland.vn/cafeautoData/upload/tintuc/thitruong/2022/08/tuan-01/toyotacamrythehemoibanphachoacafeautovn1-1659434192.jpg",
+      "name": "Cam Hendry",
+      "price": 3000000000,
+      "tittle": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum",
+      "id": 3
+    },
+    {
+      "img": "https://static1.cafeland.vn/cafeautoData/upload/tintuc/thitruong/2022/08/tuan-01/toyotacamrythehemoibanphachoacafeautovn1-1659434192.jpg",
+      "name": "Cam Alex",
+      "price": 4000000000,
+      "tittle": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum",
+      "id": 4
+    },
+    {
+      "img": "https://static1.cafeland.vn/cafeautoData/upload/tintuc/thitruong/2022/08/tuan-01/toyotacamrythehemoibanphachoacafeautovn1-1659434192.jpg",
+      "name": "Cam Rolex ",
+      "price": 5000000000,
+      "tittle": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum",
+      "id": 5
+    },
+    {
+      "img": "https://static1.cafeland.vn/cafeautoData/upload/tintuc/thitruong/2022/08/tuan-01/toyotacamrythehemoibanphachoacafeautovn1-1659434192.jpg",
+      "name": "Cam Dior",
+      "price": 6000000000,
+      "tittle": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum",
+      "id": 6
+    }
+  ]
+}

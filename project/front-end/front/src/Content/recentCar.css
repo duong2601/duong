@@ -1,0 +1,55 @@
+#cardImg {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 70px;
+
+}
+
+.card {
+    width: 286.67px;
+    height: 440.06px;
+}
+
+.card p {
+    margin-left: 10px;
+}
+
+
+#img1 {
+    width: 100%;
+    height: 214.73px;
+    background-image: url('https://xetoyotathanhxuan.vn/wp-content/uploads/2019/09/toyota-camry-2019cafeautovn1-1533577119-600x398.jpg');
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+
+}
+
+#img1:hover {
+    background-image: url("https://banxemoi.com.vn/wp-content/uploads/2022/09/noi-that-toyota-2-5Q-moi-nhat.jpg");
+}
+
+#img2 {
+    width: 100%;
+    height: 214.73px;
+    background-image: url('https://image-us.24h.com.vn/upload/2-2022/images/2022-05-19/Toyota-Camry-bo-sung-them-phien-ban-dac-biet-t--2--1652950679-127-width1000height667.jpg');
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+
+}
+
+#img2:hover {
+    background-image: url("https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/mailinhxehay/012022/05/16/xehay-toyota-camry-050122-220220105163520.0246550.jpg");
+}
+
+#img3 {
+    width: 100%;
+    height: 214.73px;
+    background-image: url('https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/mailinhxehay/012022/05/16/xehay-toyota-camry-050122-3120220105163519.6404750.jpg');
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+
+}
+
+#img3:hover {
+    background-image: url("https://files01.danhgiaxe.com/KcjqAIG3SV6VgeF9CSBPgtVnGOI=/fit-in/1280x0/20221031/n-i-th-t-141637.jpg");
+}

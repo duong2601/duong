@@ -1,0 +1,7 @@
+#modalBody {
+    display: flex;
+}
+
+.modal-register {
+    display: flex !important;
+}
